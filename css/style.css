@@ -318,8 +318,8 @@ margin-bottom: 9px;
     display: inline-block;
 }
 
-.contact-link:last-child{
-    margin: 0;
+.contacts-list:last-child{
+    margin-bottom: 0;
 }
 .contacts-link:hover,
 .contacts-link:focus,
